@@ -34,7 +34,7 @@ int main()
 }
 ```
 ## Output:
-![Screenshot 2025-05-07 111724](https://github.com/user-attachments/assets/bd338b1a-bb42-49fe-9bb6-3a2c693819d4)
+![Screenshot 2025-05-07 144258](https://github.com/user-attachments/assets/92f4919a-1eba-4390-b006-bf5b0627b3e6)
 
 ## Result:
 Thus the program was executed and the output was verified successfully.
