@@ -1,9 +1,9 @@
 # EX 34 C program to read a file name from user and create that file and insert student roll numbers in to that file.
 ## DATE:
-## AIM:
+## Aim:
 To write a C program to read a file name from user and create that file and insert student roll numbers in to that file.
 
-## Algorithm
+## Algorithm:
 1. . Start.
 2. Define a variables.
 3. Write a program to read a file name from user and create that file and insert student 
